@@ -2,8 +2,8 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: Gabriel Yuan
 
 In one sentence, what is the difference between Git and GitHub?
 
-**REPLACE THIS SENTENCE**
+Git is a version-control tool that tracks changes to files locally, while GitHub is an online platform for storing and collaborating on Git repositories.
